@@ -6,9 +6,6 @@ Below is the user interface of the Crop Recommendation System:
   <img src="images/web_interface.PNG" alt="Crop Recommendation Web Interface" width="600">
 </p>
 
-> 📌 Replace `images/web_interface.png` with your actual screenshot file path.
-
-
 ## 🌾 How Farmers Can Benefit from This System
 
 This system provides practical support to farmers by offering data-driven crop suggestions.
