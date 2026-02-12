@@ -8,12 +8,6 @@ Below is the user interface of the Crop Recommendation System:
 
 > 📌 Replace `images/web_interface.png` with your actual screenshot file path.
 
-### How to Add Screenshot
-
-1. Take a screenshot of your running web app.
-2. Create a folder named `images` inside your project.
-3. Save the screenshot as `web_interface.png`.
-4. Push it to GitHub.
 
 ## 🌾 How Farmers Can Benefit from This System
 
